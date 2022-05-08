@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Primary"
+    tools:context=".MainActivity"
+    android:padding="40dp">
+
+    <!--//Pengerjaan : 28 April - 9 Mei 2022
+    //Nim : 10119241
+    //Nama : Ahmad Fahmi Fahlevi
+    //Kelas : IF6    <-->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        >
+
+        <ImageView
+            android:id="@+id/ss_header"
+            android:layout_width="wrap_content"
+            android:layout_height="250dp"
+            android:layout_marginTop="5dp"
+            android:scaleType="center"
+            android:src="@drawable/logo8"></ImageView>
+            <TextView
+                android:layout_marginTop="330dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/ss_tittle"
+                android:layout_below="@+id/ss_header"
+                android:text="For Your Information"
+                android:fontFamily="@font/bold"
+                android:textSize="28sp"
+                android:textColor="@color/Icon"
+                android:layout_centerHorizontal="true"></TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/ss_descr1"
+            android:layout_below="@+id/ss_tittle"
+            android:text="my self apps"
+            android:fontFamily="@font/regular"
+            android:textSize="20sp"
+            android:textColor="@color/white"
+            android:layout_centerHorizontal="true"></TextView>
+    </RelativeLayout>
+
+
+</RelativeLayout>

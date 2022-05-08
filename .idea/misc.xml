@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.148" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/drawable/ic_bangun.xml" value="0.148" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/drawable/ic_baseline_fastfood_24.xml" value="0.148" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/drawable/ic_basket.xml" value="0.148" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/drawable/ic_call.xml" value="0.148" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/drawable/ic_console.xml" value="0.148" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/drawable/ic_fact.xml" value="0.148" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/drawable/ic_film.xml" value="0.148" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/drawable/ic_home.xml" value="0.148" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/drawable/ic_kuliah.xml" value="0.148" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/drawable/ic_launcher_background.xml" value="0.148" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/drawable/ic_location.xml" value="0.148" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/drawable/ic_media.xml" value="0.148" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/drawable/ic_mma.xml" value="0.148" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/drawable/ic_more.xml" value="0.148" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/drawable/ic_more_vert.xml" value="0.148" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/drawable/ic_music.xml" value="0.148" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/drawable/ic_profil.xml" value="0.148" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/drawable/ic_tidur.xml" value="0.148" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/drawable/ic_volley.xml" value="0.148" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/drawable/onboard_indicator_inactive.xml" value="0.148" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/drawable/onboarding_indicator_active.xml" value="0.148" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/drawable/styleicon.xml" value="0.148" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/font/product_sans.xml" value="0.2740740740740741" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/layout/activity_daily.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/layout/activity_gallery.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/layout/activity_music.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/layout/activity_walk_through1.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/layout/item_container_onboarding.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/layout/list_friend_item.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/layout/list_gallery_item.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/layout/list_item.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/layout/list_music.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/layout/list_video_item.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/layout/main_nav_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/layout/main_toolbar.xml" value="0.4" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/FYI/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.148" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/mySelfApps_10118043-master/app/src/main/res/drawable/ic_basket.xml" value="0.148" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/mySelfApps_10118043-master/app/src/main/res/drawable/ic_console.xml" value="0.148" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/mySelfApps_10118043-master/app/src/main/res/drawable/styleicon.xml" value="0.148" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/mySelfApps_10118043-master/app/src/main/res/layout/activity_daily.xml" value="0.2359375" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/mySelfApps_10118043-master/app/src/main/res/layout/activity_gallery.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/mySelfApps_10118043-master/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/mySelfApps_10118043-master/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/mySelfApps_10118043-master/app/src/main/res/layout/activity_music.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/mySelfApps_10118043-master/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/mySelfApps_10118043-master/app/src/main/res/layout/activity_walk_through1.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/mySelfApps_10118043-master/app/src/main/res/layout/item_container_onboarding.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/mySelfApps_10118043-master/app/src/main/res/layout/list_friend_item.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/mySelfApps_10118043-master/app/src/main/res/layout/list_gallery_item.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/mySelfApps_10118043-master/app/src/main/res/layout/list_item.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/mySelfApps_10118043-master/app/src/main/res/layout/list_music.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/mySelfApps_10118043-master/app/src/main/res/layout/list_video_item.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/mySelfApps_10118043-master/app/src/main/res/layout/main_nav_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/mySelfApps_10118043-master/app/src/main/res/layout/main_toolbar.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

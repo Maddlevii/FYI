@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.fyi">
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.fyi">
+        <activity android:name="com.example.fyi.Profile" />
+        <activity android:name="com.example.fyi.Gallery" />
+        <activity android:name="com.example.fyi.Music" />
+        <activity android:name="com.example.fyi.Daily" />
+        <activity android:name="com.example.fyi.HomeActivity" />
+        <activity
+            android:name="com.example.fyi.WalkThrough1"
+            android:label="home" />
+        <activity android:name="com.example.fyi.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
